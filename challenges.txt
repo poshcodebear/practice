@@ -1,1 +1,2 @@
-1 - Self-scoring quiz with answer file
+- Self-scoring quiz with answer file
+- ToDo program with checkboxes, config file, and daily reset
